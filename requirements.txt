@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+databases
+asyncpg
+psycopg2
+psycopg2-binary
+alembic
+python-decouple
+email-validator
+passlib[bcrypt]
+pyjwt
+requests
+asyncclick
